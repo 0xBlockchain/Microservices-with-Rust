@@ -1,5 +1,5 @@
 [package]
-name = "rust-microservice"
+name = "microservices-with-rust"
 version = "0.1.0"
 authors = ["Oscar Buck <33234035+0xBlockchain@users.noreply.github.com>"]
 edition = "2021"
